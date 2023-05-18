@@ -15,7 +15,7 @@ Dan juga beberapa sumber gambar yaitu :
 2. Flaticon
 3. Bootstrap Icon
 
-# Cara Intalasi
+# Cara Instalasi
 1. Anda harus mempunyai webserver yang berjalan dengan min PHP 7xx
 2. Buat database baru (buku_tamu_db)
 3. Import buku_tamu_db.sql yang berada pada folder database
