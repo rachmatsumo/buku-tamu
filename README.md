@@ -27,7 +27,7 @@ Dan juga beberapa sumber gambar yaitu :
 
 # Screenshoot
 <img src="https://github.com/rachmatsumo/buku_tamu/blob/main/screenshot/1.png" alt="Login Admin">
-<img src="screenshoot/2.png" alt="Mobile Size">
-<img src="screenshoot/3.png" alt="Buku Tamu">
+<img src="https://github.com/rachmatsumo/buku_tamu/blob/main/screenshot/2.png" alt="Mobile Size">
+<img src="https://github.com/rachmatsumo/buku_tamu/blob/main/screenshot/3.png" alt="Buku Tamu">
 
 # Silahkan unduh atau kembangkan agar sistem ini lebih baik lagi. Anda bebas untuk mengembangkan ataupun mempelajarinya.
