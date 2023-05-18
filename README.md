@@ -26,6 +26,8 @@ Dan juga beberapa sumber gambar yaitu :
 - Url /admin.php user : admin | password : admin
 
 # Screenshoot
-<img src="screenshoot/1.png" alt="Buku Tamu">
+<img src="screenshoot/1.png" alt="Login Admin">
+<img src="screenshoot/2.png" alt="Mobile Size">
+<img src="screenshoot/3.png" alt="Buku Tamu">
 
 # Silahkan unduh atau kembangkan agar sistem ini lebih baik lagi. Anda bebas untuk mengembangkan ataupun mempelajarinya.
