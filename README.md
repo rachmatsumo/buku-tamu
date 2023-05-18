@@ -1,5 +1,6 @@
 # buku_tamu
-Web sederhana pencatatan tamu berbasis PHP
+Web sederhana pencatatan tamu berbasis PHP 
+Cek disini >> <a href="bukutamu.webkuy.com" target="_blank">Buku Tamu</a>
 
 # Deskripsi
 Web ini dibangun menggunakan PHP dengan metode OOP dan juga penerapan Model-View-Controller.
@@ -19,5 +20,8 @@ Dan juga beberapa sumber gambar yaitu :
 3. Import buku_tamu_db.sql yang berada pada folder database
 4. Konfigurasi kembali file koneksi.php yang berada pada folder functions
 5. Atur koneksi sesuai konfigurasi server anda
+
+# Admin 
+- Url /admin.php user : admin | password : admin
 
 # Silahkan unduh atau kembangkan agar sistem ini lebih baik lagi. Anda bebas untuk mengembangkan ataupun mempelajarinya.
