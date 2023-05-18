@@ -1,8 +1,7 @@
 # buku_tamu
 Web sederhana pencatatan tamu berbasis PHP 
-Cek tampilannya pada link dibawah :
-Tamu >>> <a href="http://bukutamu.webkuy.com" target="_blank">Buku Tamu</a>
-Admin >>> <a href="http://bukutamu.webkuy.com/login.php" target="_blank">Buku Tamu</a>
+Cek tampilannya pada link berikut :
+Tamu >>> <a href="http://bukutamu.webkuy.com" target="_blank">Buku Tamu</a> | Admin >>> <a href="http://bukutamu.webkuy.com/login.php" target="_blank">Buku Tamu</a>
 
 # Deskripsi
 Web ini dibangun menggunakan PHP dengan metode OOP dan juga penerapan Model-View-Controller.
@@ -25,5 +24,8 @@ Dan juga beberapa sumber gambar yaitu :
 
 # Admin 
 - Url /admin.php user : admin | password : admin
+
+# Screenshoot
+<img src="screenshoot/1.png" alt="Buku Tamu">
 
 # Silahkan unduh atau kembangkan agar sistem ini lebih baik lagi. Anda bebas untuk mengembangkan ataupun mempelajarinya.
